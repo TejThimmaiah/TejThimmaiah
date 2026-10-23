@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Open%20to-AML%20%2F%20KYC%20%2F%20TM%20roles-8957E5?style=flat-square" alt="Open to AML / KYC / TM roles"/>
 </p>
 
-<a href="https://www.linkedin.com/in/tej-thimmaiah-m-a-431405224/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/tejthimmaiah/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:thimmaiah18tej@gmail.com"><img src="https://img.shields.io/badge/Email-thimmaiah18tej%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
@@ -296,5 +296,5 @@ Alongside my compliance career, I founded **[Bastion Helix](https://bastionhelix
 
 <div align="center">
   <b>Open to AML, KYC, transaction monitoring and financial crime roles in Bengaluru.</b><br>
-  <a href="https://www.linkedin.com/in/tej-thimmaiah-m-a-431405224/">LinkedIn</a> · <a href="mailto:thimmaiah18tej@gmail.com">thimmaiah18tej@gmail.com</a>
+  <a href="https://www.linkedin.com/in/tejthimmaiah/">LinkedIn</a> · <a href="mailto:thimmaiah18tej@gmail.com">thimmaiah18tej@gmail.com</a>
 </div>
