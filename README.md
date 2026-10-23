@@ -286,7 +286,7 @@ Alongside my compliance career, I founded **[Bastion Helix](https://bastionhelix
 
 **485+ contributions in the last year** · **3 live products under Bastion Helix** · **3 tools in live use at HSBC**
 
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=TejThimmaiah&show_icons=true&hide=stars,prs,issues,contribs&hide_rank=true&hide_border=true&include_all_commits=true&theme=transparent&title_color=1F6FEB&icon_color=1F6FEB&custom_title=Shipping%20activity" alt="Shipping activity"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=TejThimmaiah&show_icons=true&hide=stars,prs,issues,contribs&hide_rank=true&hide_border=true&theme=transparent&title_color=1F6FEB&icon_color=1F6FEB&custom_title=Shipping%20activity" alt="Shipping activity"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TejThimmaiah&layout=compact&hide_border=true&theme=transparent&title_color=1F6FEB" alt="Top languages"/>
   <br><br>
   <picture>
