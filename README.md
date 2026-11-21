@@ -191,6 +191,7 @@ timeline
       <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
       <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white" alt="Power Automate"/>
       <img src="https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white" alt="UiPath"/>
+      <img src="https://img.shields.io/badge/AMD%20ROCm-Certified-ED1C24?style=flat-square&logo=amd&logoColor=white" alt="AMD ROCm Certified Associate"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
       <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
       <img src="https://img.shields.io/badge/Oracle%20Cloud-C74634?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Cloud"/>
@@ -209,31 +210,50 @@ timeline
 
 <br>
 
-Alongside my compliance career, I founded **[Bastion Helix](https://bastionhelix.com)**, an independent software company in Bengaluru. It builds apps for the tools teams already use: Chrome, Jira and AI agents. I design, build and launch the products myself.
+Alongside my compliance career, I founded **[Bastion Helix](https://bastionhelix.com)**, an independent software brand from Bengaluru. It builds apps for the tools teams already use (Jira, the browser and AI agents) plus free browser apps for machine-shop quotes and 3D CAD. I design, build and launch every product myself.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Products-6-101322?style=flat-square" alt="6 products"/>
+  <img src="https://img.shields.io/badge/Atlassian%20Marketplace-Live-0052CC?style=flat-square&logo=atlassian&logoColor=white" alt="Live on the Atlassian Marketplace"/>
+  <img src="https://img.shields.io/badge/Official%20MCP%20Registry-Listed-6E40C9?style=flat-square" alt="Listed in the official MCP Registry"/>
+  <img src="https://img.shields.io/badge/CSA%20STAR-Level%201%20self--assessments-2EA043?style=flat-square" alt="CSA STAR Level 1 self-assessments"/>
+</p>
 
 <table>
   <tr>
     <td valign="top" width="50%">
-      <b>📸 <a href="https://bastionhelix.com/capture">Bastion Helix Capture</a></b><br>
-      <img src="https://img.shields.io/badge/Status-Live%20on%20Chrome%20Web%20Store-2EA043?style=flat-square" alt="Live on Chrome Web Store"/><br><br>
-      Chrome extension that sends bug reports with screenshots or replays straight to Jira, GitHub or Linear.
+      <b>🧩 <a href="https://bastionhelix.com/jira">Bastion Helix for Jira</a></b><br>
+      <img src="https://img.shields.io/badge/Status-Live%20on%20Atlassian%20Marketplace-2EA043?style=flat-square" alt="Live on the Atlassian Marketplace"/><br><br>
+      Seven Jira Cloud tools on one licence (charts, timesheets, budgets, diagrams, workflow automation, email-to-issue and AI spend), running entirely on Atlassian Forge. Free for teams of 10 or fewer.
     </td>
     <td valign="top" width="50%">
       <b>📋 <a href="https://bastionhelix.com/tables">Bastion Helix Tables</a></b><br>
-      <img src="https://img.shields.io/badge/Status-Live-2EA043?style=flat-square" alt="Live"/><br><br>
-      Chrome and Edge extension that turns any web table into Excel, CSV or Google Sheets data in one click.
+      <img src="https://img.shields.io/badge/Status-Live%20for%20Chrome%20%26%20Edge-2EA043?style=flat-square" alt="Live for Chrome and Edge"/><br><br>
+      Turns tables on any web page into clean Excel, CSV or Google Sheets data, with an optional private link for ChatGPT, Claude and Le Chat. Free.
     </td>
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <b>🔎 <a href="https://bastionhelix.com/lens">Bastion Helix Agent Lens</a></b><br>
-      <img src="https://img.shields.io/badge/Status-API%20live-2EA043?style=flat-square" alt="API live"/><br><br>
-      API and MCP server that lets AI agents check whether they may use a web page, then read its content.
+      <b>📸 <a href="https://bastionhelix.com/capture">Bastion Helix Capture</a></b><br>
+      <img src="https://img.shields.io/badge/Status-Live%20for%20Chrome%20%26%20Edge-2EA043?style=flat-square" alt="Live for Chrome and Edge"/><br><br>
+      Bug reports with a screenshot or instant replay, page errors and steps, private details blurred, sent straight to Jira, GitHub or Linear. Free.
     </td>
     <td valign="top" width="50%">
-      <b>🧩 <a href="https://bastionhelix.com/jira">Bastion Helix for Jira</a></b><br>
-      <img src="https://img.shields.io/badge/Status-In%20Atlassian%20Marketplace%20review-D29922?style=flat-square" alt="In Atlassian Marketplace review"/><br><br>
-      Seven Jira Cloud tools on one licence, running inside Atlassian.
+      <b>🔎 <a href="https://bastionhelix.com/lens">Bastion Helix Agent Lens</a></b><br>
+      <img src="https://img.shields.io/badge/Status-API%20%2B%20MCP%20live-2EA043?style=flat-square" alt="API and MCP live"/><br><br>
+      API and MCP server that lets AI agents check whether a page may be used, then read it as Markdown. Listed in the official MCP Registry and Claude's connector directory.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <b>🛠️ <a href="https://bastionhelix.com/fabquote/">BHX Fab Quote</a></b><br>
+      <img src="https://img.shields.io/badge/Status-Free%20web%20app-2EA043?style=flat-square" alt="Free web app"/><br><br>
+      Free browser app for machine shops that prices laser, plasma, waterjet and CNC jobs from DXF, G-code and STEP files, with a free MCP server for AI agents.
+    </td>
+    <td valign="top" width="50%">
+      <b>📐 <a href="https://bastionhelix.com/bhx/">BHX CAD</a></b><br>
+      <img src="https://img.shields.io/badge/Status-Free%20web%20app-2EA043?style=flat-square" alt="Free web app"/><br><br>
+      Free browser-based 3D CAD tool that checks a part's cost, mass and 3D-print readiness. Nothing to install.
     </td>
   </tr>
 </table>
@@ -271,6 +291,7 @@ Alongside my compliance career, I founded **[Bastion Helix](https://bastionhelix
 <summary><b>Certifications</b></summary>
 <br>
 
+- **AMD ROCm Certified Associate**, AMD Developer (Nov 2026)
 - UiPath Automation Business Analyst Associate, UiPath Academy (Jun 2025)
 - People Leadership Credential, Level 1, Accenture (Apr 2025)
 - Accounting Fundamentals, Corporate Finance Institute (Feb 2022)
@@ -284,7 +305,7 @@ Alongside my compliance career, I founded **[Bastion Helix](https://bastionhelix
 
 <div align="center">
 
-**488 contributions in the last year** · **3 live products under Bastion Helix** · **3 tools in live use at HSBC**
+**995 contributions in the last year** · **6 products under Bastion Helix** · **3 tools in live use at HSBC**
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TejThimmaiah/TejThimmaiah/output/github-contribution-grid-snake-dark.svg" />
